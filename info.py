@@ -5,20 +5,20 @@ from Script import script  # Custom script file with caption & other settings
 # 🚀 Bot Session and Token Information
 SESSION = 'Webavbot'  # Pyrogram client session name
 
-API_ID = 20288994  # Telegram API ID
-API_HASH = 'd702614912f1ad370a0d18786002adbf'  # Telegram API Hash
-BOT_TOKEN = '8206608756:AAHEjdgYTKA6i1Nf-TdHKBAeTtNy2wIZqJk'  # Telegram Bot Token
+API_ID = 24620215  # Telegram API ID
+API_HASH = 'b6781cce52e272e11dabc88cd31c566c'  # Telegram API Hash
+BOT_TOKEN = '8246112276:AAGHSDx4qIHPTkJzwKUjZ_vWzlL5ANHjpaI'  # Telegram Bot Token
 
 # 👑 Channels & Logs
-BIN_CHANNEL = -1003190344328  # File storage channel
-LOG_CHANNEL = -1003190344328  # General log channel
-PREMIUM_LOGS = -1003190344328  # Premium user actions log
-VERIFIED_LOG = -1003190344328  # Verified user actions log
-SUPPORT_GROUP = -1003190344328
+BIN_CHANNEL = -1003293080937  # File storage channel
+LOG_CHANNEL = -1003293080937  # General log channel
+PREMIUM_LOGS = -1003293080937  # Premium user actions log
+VERIFIED_LOG = -1003293080937  # Verified user actions log
+SUPPORT_GROUP = -1003293080937
 
 # Admin and Auth Channel IDs
-ADMINS = [8304706556]  # List of admin user IDs
-AUTH_CHANNEL = [-1003190344328]  # Allowed channels for authorization
+ADMINS = [7430655591]  # List of admin user IDs
+AUTH_CHANNEL = [-1003293080937]  # Allowed channels for authorization
 
 # Usernames (without @)
 OWNER_USERNAME = 'Zeroboy216'  # Owner's username
@@ -46,7 +46,7 @@ SHORTLINK_URL = 'techvjlink.site'  # Shortener site
 SHORTLINK_API = 'd73e70a35dc3877fa14afbf51fa8ec312c94780c'  # API key for shortlink
 
 # 💾 MongoDB Connection Information
-DB_URL = "mongodb+srv://vsandeepa183_db_user:e4jIHUZtxqmxLxwn@cluster0.37hphiw.mongodb.net/?appName=Cluster0"  # MongoDB connection URI
+DB_URL = "mongodb+srv://Hdmoviehutcloud:Hdmoviehutcloud8907@cluster0.sgcp0am.mongodb.net/?appName=Cluster0"  # MongoDB connection URI
 DB_NAME = "cluster0"  # MongoDB database name
 
 # 📸 All Media (Images)
