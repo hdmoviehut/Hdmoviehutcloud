@@ -69,8 +69,8 @@ MAX_FILES = 5  # Max files allowed per user
 VERIFY_EXPIRE = 60  # Time (in hours) after which verification expires
 
 # ⚙️ Worker Configuration
-WORKERS = 4  # Number of async workers
-MULTI_CLIENT = False  # Enable multi-client handling (if needed)
+WORKERS = 50  # Number of async workers
+MULTI_CLIENT = True  # Enable multi-client handling (if needed)
 
 # 🔧 App/Heroku Configuration
 name = 'avbotz'  # Project name
